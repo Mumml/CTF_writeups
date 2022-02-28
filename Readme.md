@@ -14,7 +14,7 @@
     Here you can find serveral writeups for the CTFLearn challenges
     <br>
     <br>
-    <i>CTFLearn is another site to sharpen up your hacking skill. You need to complete the task and get the point. If you are new to CTF, this might be a good site to start with.</i>
+    <i>CTFLearn is another site to sharpen up your hacking skill. You need to complete the task and get the point. If you are new to CTF, this might be a good site to start with!</i>
     <br>
     <br>
     <a href="./easy"><strong>Explore the easy challenges »</strong></a>
